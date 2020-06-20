@@ -1,0 +1,1 @@
+web: gunicorn pov_pro.wsgi --log-file -
